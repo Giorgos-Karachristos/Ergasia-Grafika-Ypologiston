@@ -1,4 +1,4 @@
-# Εργασία γραφικά υπολογιστών
+# Εργασία για το μάθημα γραφικά υπολογιστών
 Rendering:
 
 ![Rendering](https://user-images.githubusercontent.com/73245022/180641698-26eb9852-0cdd-42c3-bd8a-8d865ba63038.jpg)
